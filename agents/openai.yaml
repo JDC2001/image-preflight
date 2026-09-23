@@ -1,0 +1,3 @@
+interface:
+  display_name: "Image Preflight"
+  short_description: "Check an image's real encoding before API submission"
